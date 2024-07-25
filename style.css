@@ -65,7 +65,7 @@ body {
     display: flex;
     align-items: center;
     margin-top: 50px;
-    border-radius: 5px;
+    border-radius: 15px;
     width: 1280px;
     height: 600px;
     background-image: url(images/Bitmap.jpg);
@@ -112,16 +112,12 @@ body {
     color: white;
     font-size: 20px;
     padding: 10px 16px;
-    border: 2px solid #00BAFC;
     background: #0E8784;
     transition: all 0.4s ease-in-out;
 }
 
 
-.hero-btn:hover {
-    background: white;
-    color: #00BAFC;
-}
+
 
 /*==================MAIN BOSHLANDI=====================*/
 
